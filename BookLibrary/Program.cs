@@ -53,7 +53,7 @@ namespace BookLibrary
             Novel book_novel = new Novel();
             book_novel.Name = "Suç ve Ceza";
             book_novel.PublishDate = new DateTime(1866, 10, 02);
-            book_novel.Author = "Tolstoy";
+            book_novel.Author = "Dostoyevski";
             book_novel.IsbnNumber = 77;
 
             _context.Novels.Add(book_novel);
