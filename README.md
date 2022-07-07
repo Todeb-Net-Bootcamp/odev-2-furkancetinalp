@@ -28,7 +28,7 @@
 ![bookpicture](https://user-images.githubusercontent.com/99509540/177858853-7f0f3e6a-961f-4b3b-b0f9-e59777a9f80b.png)
 
 ### All Data in the Tables at the Beginning
-![beforeAddingInputs](https://user-images.githubusercontent.com/99509540/177858944-81df7430-84fc-40fe-835c-606695b614b3.png)
+![beforeinputs](https://user-images.githubusercontent.com/99509540/177861108-aac841d2-2be2-4855-8a86-8b5280810cdd.png)
 
 ### After Adding Data In Tables via Classes 
-![afterAddingInputs](https://user-images.githubusercontent.com/99509540/177859013-a5443445-7d6d-4bde-b078-348964b180b1.png)
+![Ekran Görüntüsü (221)](https://user-images.githubusercontent.com/99509540/177861127-99df2673-5a44-421f-93a7-6d5e1edcc3ba.png)
